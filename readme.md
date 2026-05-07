@@ -1,5 +1,5 @@
 ┌─────────────  •✧✧•  ─────────────┐
 
-    bibbity boppity you are now trespassing into my property
+    bippity boppity you are now trespassing into my property
 
 └─────────────  •✧✧•  ─────────────┘
