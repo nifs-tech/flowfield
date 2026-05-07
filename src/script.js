@@ -49,7 +49,7 @@ camera.updateProjectionMatrix()
 scene.add(camera)
 
 /**
- * CONTROLS (disabled for now)
+ * CONTROLS, diabled
  */
 const controls = new OrbitControls(camera, canvas)
 controls.enabled = false
@@ -109,7 +109,6 @@ function setupParticles(geometry)
     const baseGeometry = {}
     baseGeometry.instance = geometry.clone().toNonIndexed()
 
-    // FIXED rotation (your previous value was too extreme)
     baseGeometry.instance.rotateX(Math.PI / 20)
     baseGeometry.instance.translate(0, 0.2, 0)
 
