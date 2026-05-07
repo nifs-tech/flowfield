@@ -10,9 +10,10 @@
     "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "vite": "^6.2.2",
-    "vite-plugin-restart": "^0.4.2",
-    "vite-plugin-glsl": "1.3.3"
+    "vite-plugin-glsl": "1.3.3",
+    "vite-plugin-restart": "^0.4.2"
   },
   "dependencies": {
     "lil-gui": "^0.20.0",
