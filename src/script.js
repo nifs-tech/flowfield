@@ -49,7 +49,7 @@ camera.updateProjectionMatrix()
 scene.add(camera)
 
 /**
- * CONTROLS, diabled
+ * CONTROLS, disabled
  */
 const controls = new OrbitControls(camera, canvas)
 controls.enabled = false
